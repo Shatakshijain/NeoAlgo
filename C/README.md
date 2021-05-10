@@ -126,6 +126,7 @@
 - [Palindrome Checker using doubly linked list](ds/palindrome_doubly_linked_list.c)
 - [Queue using Circular Array](ds/queue_using_circular_array.c)
 - [Reverse Queue using stack](ds/reverse-queue.c)
+- [Traversal in linked list](ds/LL_traversal.c)
 
 ## Searching
 
